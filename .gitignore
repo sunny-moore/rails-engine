@@ -24,3 +24,4 @@
 
 # Ignore simplecov files
 echo coverage >> .gitignore
+/coverage
